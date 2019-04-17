@@ -67,3 +67,5 @@ gem 'rake'
 #to access the Twilio API for telephony-related actions such as answering calls,
 # sending texts and dialling numbers
 gem 'twilio-ruby'
+
+gem 'railties', '~> 5.2', '>= 5.2.3'
