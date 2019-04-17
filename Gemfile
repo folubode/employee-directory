@@ -7,7 +7,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 gem 'rails', '~> 5.2.3'
 # Use sqlite3 as the database for Active Record
 
-gem 'sqlite3', '~> 1.3.12'
+#gem 'sqlite3', '~> 1.3.12'
 # Use postgresql as the database for Active Record to interface with dbserver
 gem 'pg', '~> 0.18'
 
